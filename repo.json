@@ -1,0 +1,9 @@
+{
+  "name": "WioKids",
+  "description": "CloudStream providers for cartoons, animation and kids content.",
+  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioKids/main/assets/logo.png",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Wiojelt/WioKids/main/plugins.json?v=clean-20260929b"
+  ]
+}
