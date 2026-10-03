@@ -4,6 +4,6 @@
   "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioKids/main/assets/logo.png",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Wiojelt/WioKids/main/plugins.json?v=23"
+    "https://raw.githubusercontent.com/Wiojelt/WioKids/e8a3f3e613a0faf384055c3f1bf9cc0a01e3c05d/plugins.json"
   ]
 }
