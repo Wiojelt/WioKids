@@ -23,16 +23,16 @@
     "fileHash": "sha256-b34a240c139d2da90b2f509f7721edd3859597b3f1f2f65314361f2278377713"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/d155ae1e47d247a70ba300f0c9f2fda29d22ee80/CizgiVeDizi.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/703314fa3f436c2af735c0dc5a0cf03424ae034a/CizgiVeDizi.cs3",
     "status": 1,
-    "version": 21,
+    "version": 22,
     "name": "CizgiVeDizi",
     "internalName": "CizgiVeDizi",
     "authors": [
       "Wiojelt"
     ],
-    "description": "Çizgi, anime, dizi ve film kataloğu; güncel merkez player ve bölüm kaynaklarını çözer.",
-    "fileSize": 133256,
+    "description": "Çocuklar için 13 kategoride çizgi diziler ve animasyon filmleri; güncel bölümler ve kaynaklar.",
+    "fileSize": 137376,
     "repositoryUrl": "https://github.com/Wiojelt/WioKids",
     "language": "tr",
     "tvTypes": [
@@ -40,9 +40,9 @@
       "TvSeries",
       "Anime"
     ],
-    "iconUrl": "https://cizgivedizi.com/Logo.png",
+    "iconUrl": "https://cizgivedizi.net/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-450cb310d9fa911ce78312b37c9fc0216d55e4d11a7cb8c5a31d8f90b01b92c4"
+    "fileHash": "sha256-9625cadd2447c3deca3b01914487a8352fbfa5bd9d451109d47752601537154f"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/d155ae1e47d247a70ba300f0c9f2fda29d22ee80/CizgiPortal.cs3",
