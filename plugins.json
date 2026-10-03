@@ -1,15 +1,15 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/d155ae1e47d247a70ba300f0c9f2fda29d22ee80/CizgiMax.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/cf8cc970c837b80ad7b76316255559ab4e91ca03/CizgiMax.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "CizgiMax",
     "internalName": "CizgiMax",
     "authors": [
       "Wiojelt"
     ],
     "description": "Cizgi Max · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 137357,
+    "fileSize": 150389,
     "repositoryUrl": "https://github.com/Wiojelt/WioKids",
     "language": "tr",
     "tvTypes": [
@@ -20,7 +20,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b34a240c139d2da90b2f509f7721edd3859597b3f1f2f65314361f2278377713"
+    "fileHash": "sha256-018ccfde2b0dac419c2209d61ba0c819be060eace4f3746b6e96f8503611ef72"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/ca97ea0d477b7eff4bc24c7648958bc585d667e8/CizgiVeDizi.cs3",
@@ -44,38 +44,16 @@
     "fileHash": "sha256-c2cb359997be05e47a0b5cfeadfa8e69e6b4facd6ee07e0b380684aa15f94fb8"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/d155ae1e47d247a70ba300f0c9f2fda29d22ee80/CizgiPortal.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/cf8cc970c837b80ad7b76316255559ab4e91ca03/CizgiFilmIzleInfo.cs3",
     "status": 1,
-    "version": 3,
-    "name": "CizgiPortal",
-    "internalName": "CizgiPortal",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "WioKids · Çizgi Portal çizgi dizi ve film kaynağı",
-    "fileSize": 106851,
-    "repositoryUrl": "https://github.com/Wiojelt/WioKids",
-    "language": "tr",
-    "tvTypes": [
-      "Cartoon",
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgiportal.net&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-beb33d64a2c8d311c13ae6d1e16cebfe3428da6da8c9a3f7843f526f069d8ada"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/d155ae1e47d247a70ba300f0c9f2fda29d22ee80/CizgiFilmIzleInfo.cs3",
-    "status": 1,
-    "version": 3,
+    "version": 5,
     "name": "CizgiFilmIzleInfo",
     "internalName": "CizgiFilmIzleInfo",
     "authors": [
       "Wiojelt"
     ],
     "description": "WioKids · Cizgifilmizle.info çizgi film arşivi",
-    "fileSize": 106472,
+    "fileSize": 114554,
     "repositoryUrl": "https://github.com/Wiojelt/WioKids",
     "language": "tr",
     "tvTypes": [
@@ -85,41 +63,19 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgifilmizle.info&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b12bfbcbec5417959456b86492a9625b43f7745d3247cf72319c7dba27ffed59"
+    "fileHash": "sha256-33f7c97de1618b080836f7a1f0a5a9efc38dd0cf8e6cf55a3f96a61b44cf6033"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/d155ae1e47d247a70ba300f0c9f2fda29d22ee80/IzleOyna.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/cf8cc970c837b80ad7b76316255559ab4e91ca03/CizgiFilmTv.cs3",
     "status": 1,
-    "version": 3,
-    "name": "IzleOyna",
-    "internalName": "IzleOyna",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "WioKids · IzleOyna çizgi film kaynağı",
-    "fileSize": 101913,
-    "repositoryUrl": "https://github.com/Wiojelt/WioKids",
-    "language": "tr",
-    "tvTypes": [
-      "Cartoon",
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=izleoyna.com&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-a4d8d263dd974d068961ee04a69301f5158fd0f9330664b65d22a0df3a135cbf"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/d155ae1e47d247a70ba300f0c9f2fda29d22ee80/CizgiFilmTv.cs3",
-    "status": 1,
-    "version": 3,
+    "version": 5,
     "name": "CizgiFilmTv",
     "internalName": "CizgiFilmTv",
     "authors": [
       "Wiojelt"
     ],
     "description": "WioKids · Cizgifilm.tv çizgi film kataloğu",
-    "fileSize": 106111,
+    "fileSize": 114291,
     "repositoryUrl": "https://github.com/Wiojelt/WioKids",
     "language": "tr",
     "tvTypes": [
@@ -129,93 +85,6 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgifilm.tv&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-c61c96a3610165a7524b1cd50a16287636b90e4e9d1eefdbff3d70c799794064"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/d155ae1e47d247a70ba300f0c9f2fda29d22ee80/CizgiDiziNet.cs3",
-    "status": 1,
-    "version": 4,
-    "name": "CizgiDiziNet",
-    "internalName": "CizgiDiziNet",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "WioKids · ÇizgiDizi.net çizgi dizi arşivi",
-    "fileSize": 112316,
-    "repositoryUrl": "https://github.com/Wiojelt/WioKids",
-    "language": "tr",
-    "tvTypes": [
-      "Cartoon",
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgidizi.net&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-8687c1c2b1b1d7795f645ccb5f856fdb0003cf2b49a7036ce1dd35cb689458b7"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/d155ae1e47d247a70ba300f0c9f2fda29d22ee80/CizgiSite.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "CizgiSite",
-    "internalName": "CizgiSite",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "WioKids · cizgi.site Türkçe çizgi film kaynağı",
-    "fileSize": 104935,
-    "repositoryUrl": "https://github.com/Wiojelt/WioKids",
-    "language": "tr",
-    "tvTypes": [
-      "Cartoon",
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgi.site&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-5bdfa9c15d58f413b9a1cbe5f15a82c3e128aecfece9dc41b5107a032760155a"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/d155ae1e47d247a70ba300f0c9f2fda29d22ee80/MinikaCocuk.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "MinikaCocuk",
-    "internalName": "MinikaCocuk",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "WioKids · Minika Çocuk resmî program ve video kataloğu",
-    "fileSize": 111987,
-    "repositoryUrl": "https://github.com/Wiojelt/WioKids",
-    "language": "tr",
-    "tvTypes": [
-      "Cartoon",
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=minikacocuk.com.tr&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-695105e0f2864cf6d423fbe457565274f38ddbede8cc225ba59a4a10f1fe581a"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/d155ae1e47d247a70ba300f0c9f2fda29d22ee80/MinikaGO.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "MinikaGO",
-    "internalName": "MinikaGO",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "WioKids · Minika GO resmî program ve video kataloğu",
-    "fileSize": 111984,
-    "repositoryUrl": "https://github.com/Wiojelt/WioKids",
-    "language": "tr",
-    "tvTypes": [
-      "Cartoon",
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=minikago.com.tr&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-032e92cc5e874f263772491cc9f573dc17d1c726206ebb34309cb0f8918c8f89"
+    "fileHash": "sha256-14952c88edba463122def0e149cc5890bfd15fed1b3c35c6f07ff45f53b5fd87"
   }
 ]
