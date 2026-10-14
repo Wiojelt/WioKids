@@ -32,7 +32,7 @@
       "Wiojelt"
     ],
     "description": "Çizgi, anime, dizi ve film kataloğu; güncel merkez player ve bölüm kaynaklarını çözer.",
-    "fileSize": 134888,
+    "fileSize": 134882,
     "repositoryUrl": "https://github.com/Wiojelt/WioKids",
     "language": "tr",
     "tvTypes": [
@@ -42,7 +42,7 @@
     ],
     "iconUrl": "https://cizgivedizi.com/Logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3503d5adec92eec0921812521a84420534c9a0f15fb0592e484b0efea653588c"
+    "fileHash": "sha256-7d511cce86353b74aaa93f9e69e47cfa59c7784a2522ce501f00f033666fbc09"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/kids/CizgiPortal.cs3",
