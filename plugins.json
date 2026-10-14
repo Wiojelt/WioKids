@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/kids/CizgiMax.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiMax.cs3?v=2e36219d4722",
     "status": 1,
     "version": 10,
     "name": "CizgiMax",
@@ -23,7 +23,7 @@
     "fileHash": "sha256-2e36219d4722cdcf48155058b06e381799fe42bc21d3106cf5e551966d1d15e7"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/kids/CizgiVeDizi.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiVeDizi.cs3?v=7d511cce8635",
     "status": 1,
     "version": 21,
     "name": "CizgiVeDizi",
@@ -45,7 +45,7 @@
     "fileHash": "sha256-7d511cce86353b74aaa93f9e69e47cfa59c7784a2522ce501f00f033666fbc09"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/kids/CizgiPortal.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiPortal.cs3?v=1efaa41704c6",
     "status": 1,
     "version": 3,
     "name": "CizgiPortal",
@@ -67,7 +67,7 @@
     "fileHash": "sha256-1efaa41704c612578b185f63d6e8c385536c3aa0c84c4127eaec340c7ac03c33"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/kids/CizgiFilmIzleInfo.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiFilmIzleInfo.cs3?v=d585055424d9",
     "status": 1,
     "version": 3,
     "name": "CizgiFilmIzleInfo",
@@ -89,7 +89,7 @@
     "fileHash": "sha256-d585055424d9a1445541fd634808d4bc55107d4aeab09c58cca77fb03107ccb9"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/kids/IzleOyna.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/IzleOyna.cs3?v=bcd8b61b979d",
     "status": 1,
     "version": 3,
     "name": "IzleOyna",
@@ -111,7 +111,7 @@
     "fileHash": "sha256-bcd8b61b979deae506e570fa9c6678ad35613fbc72b6b75c3d7cf679c3e7786f"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/kids/CizgiFilmTv.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiFilmTv.cs3?v=f79fbf793139",
     "status": 1,
     "version": 3,
     "name": "CizgiFilmTv",
@@ -133,7 +133,7 @@
     "fileHash": "sha256-f79fbf79313915f019c93aa99e9cfb982e22a00953965b90ba956d4128d192af"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/kids/CizgiDiziNet.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiDiziNet.cs3?v=2efc903e18bc",
     "status": 1,
     "version": 4,
     "name": "CizgiDiziNet",
@@ -154,7 +154,7 @@
     "fileHash": "sha256-2efc903e18bce4aec81c72ea97db3e87d76a9084dbfae8fba54893080f0067f9"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/kids/CizgiSite.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiSite.cs3?v=498510ae380a",
     "status": 1,
     "version": 3,
     "name": "CizgiSite",
@@ -176,7 +176,7 @@
     "fileHash": "sha256-498510ae380a04e54bfe627e31c3b602e781bbd996b4a8fc2e43c87211f04f25"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/kids/MinikaCocuk.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/MinikaCocuk.cs3?v=e8e399326fda",
     "status": 1,
     "version": 3,
     "name": "MinikaCocuk",
@@ -198,7 +198,7 @@
     "fileHash": "sha256-e8e399326fdabf12a93b92e11e3aead40ab4a15f4012d25c85cfb08b39ddd6f1"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/kids/MinikaGO.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/MinikaGO.cs3?v=fa5f07b2a399",
     "status": 1,
     "version": 3,
     "name": "MinikaGO",
