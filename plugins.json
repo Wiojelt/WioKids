@@ -218,5 +218,27 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=minikago.com.tr&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-fa5f07b2a3992222c6182ad0210fc2b5908ddf750e859d78f4c8a75b792d4c04"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/TurkceCizgiFilmArsivi.cs3?v=243d686ac1c3",
+    "status": 1,
+    "version": 1,
+    "name": "TurkceCizgiFilmArsivi",
+    "internalName": "TurkceCizgiFilmArsivi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WioKids · Turkcecizgifilmarsivi.online çizgi film ve animasyon arşivi",
+    "fileSize": 109197,
+    "repositoryUrl": "https://github.com/Wiojelt/WioKids",
+    "language": "tr",
+    "tvTypes": [
+      "Cartoon",
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=turkcecizgifilmarsivi.online&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-243d686ac1c3c47a3385180bdd05e5bfbbe4a5d85cffb9eccebe70227031c80d"
   }
 ]
