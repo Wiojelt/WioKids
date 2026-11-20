@@ -1,15 +1,15 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiMax.cs3?v=2e36219d4722",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiMax.cs3?v=6fd839ff30f7",
     "status": 3,
-    "version": 10,
+    "version": 11,
     "name": "CizgiMax",
     "internalName": "CizgiMax",
     "authors": [
       "Wiojelt"
     ],
     "description": "Cizgi Max · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 142291,
+    "fileSize": 140889,
     "repositoryUrl": "https://github.com/Wiojelt/WioKids",
     "language": "tr",
     "tvTypes": [
@@ -20,7 +20,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-2e36219d4722cdcf48155058b06e381799fe42bc21d3106cf5e551966d1d15e7",
+    "fileHash": "sha256-6fd839ff30f7f5748d024a6f2604b2965ed25732cb58c84ae807df7168397e84",
     "filesize": 142291,
     "hash": "2e36219d4722cdcf48155058b06e381799fe42bc21d3106cf5e551966d1d15e7"
   },
