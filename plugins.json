@@ -26,14 +26,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiVeDizi.cs3?v=3deedf8ca96c",
     "status": 3,
-    "version": 26,
+    "version": 27,
     "name": "CizgiVeDizi",
     "internalName": "CizgiVeDizi",
     "authors": [
       "Wiojelt"
     ],
     "description": "Çizgi, anime, dizi ve film kataloğu; güncel merkez player ve bölüm kaynaklarını çözer.",
-    "fileSize": 136748,
+    "fileSize": 142328,
     "repositoryUrl": "https://github.com/Wiojelt/WioKids",
     "language": "tr",
     "tvTypes": [
@@ -43,8 +43,8 @@
     ],
     "iconUrl": "https://cizgivedizi.com/Logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-29b88140ac459a7f1f9162725a12f7ecf36d90ac74a633ff1a0b8357f5a19cf6",
-    "hash": "29b88140ac459a7f1f9162725a12f7ecf36d90ac74a633ff1a0b8357f5a19cf6"
+    "fileHash": "sha256-2c31d7b5669cb19d7604ad0c9c689ad00f7726767425abd42b75d197978079ef",
+    "hash": "2c31d7b5669cb19d7604ad0c9c689ad00f7726767425abd42b75d197978079ef"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiPortal.cs3?v=5cc9e719367b",
@@ -145,14 +145,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiDiziNet.cs3?v=32f05da2f9e1",
     "status": 3,
-    "version": 6,
+    "version": 7,
     "name": "CizgiDiziNet",
     "internalName": "CizgiDiziNet",
     "authors": [
       "Wiojelt"
     ],
     "description": "WioKids · ÇizgiDizi.net çizgi dizi arşivi",
-    "fileSize": 134180,
+    "fileSize": 140000,
     "repositoryUrl": "https://github.com/Wiojelt/WioKids",
     "language": "tr",
     "tvTypes": [
@@ -161,8 +161,8 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgidizi.net&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-71bed344a1c3fa7466eb6ff5f8fa624a9a0b734c156636672af138883e22ebf7",
-    "hash": "71bed344a1c3fa7466eb6ff5f8fa624a9a0b734c156636672af138883e22ebf7"
+    "fileHash": "sha256-c93c277087db9c676d75bed6ff92997166244f12466ca7998b838a76722b443f",
+    "hash": "c93c277087db9c676d75bed6ff92997166244f12466ca7998b838a76722b443f"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiSite.cs3?v=84e130b67dae",
