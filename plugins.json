@@ -2,14 +2,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiMax.cs3?v=6fd839ff30f7",
     "status": 3,
-    "version": 10,
+    "version": 11,
     "name": "CizgiMax",
     "internalName": "CizgiMax",
     "authors": [
       "Wiojelt"
     ],
     "description": "Cizgi Max · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 140889,
+    "fileSize": 147265,
     "repositoryUrl": "https://github.com/Wiojelt/WioKids",
     "language": "tr",
     "tvTypes": [
@@ -20,8 +20,8 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-6fd839ff30f7f5748d024a6f2604b2965ed25732cb58c84ae807df7168397e84",
-    "hash": "6fd839ff30f7f5748d024a6f2604b2965ed25732cb58c84ae807df7168397e84"
+    "fileHash": "sha256-50a1a08fe9e20915bb08d9c8d36b4348f37a8b9e8e682d819e9c7fb5befa1a9f",
+    "hash": "50a1a08fe9e20915bb08d9c8d36b4348f37a8b9e8e682d819e9c7fb5befa1a9f"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/CizgiVeDizi.cs3?v=3deedf8ca96c",
@@ -67,7 +67,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgiportal.net&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-5cc9e719367b1126f22e5d0bf3c6202fd75c400e5c15fce89c5776b010ece5cd",
-    "filesize": 107088,
     "hash": "5cc9e719367b1126f22e5d0bf3c6202fd75c400e5c15fce89c5776b010ece5cd"
   },
   {
@@ -91,7 +90,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgifilmizle.info&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-920e4ba209a722233db05b6b4620deb779afda46964331cd61f987b36de3b11b",
-    "filesize": 108219,
     "hash": "920e4ba209a722233db05b6b4620deb779afda46964331cd61f987b36de3b11b"
   },
   {
@@ -115,7 +113,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=izleoyna.com&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-bcd8b61b979deae506e570fa9c6678ad35613fbc72b6b75c3d7cf679c3e7786f",
-    "filesize": 103804,
     "hash": "bcd8b61b979deae506e570fa9c6678ad35613fbc72b6b75c3d7cf679c3e7786f"
   },
   {
@@ -139,7 +136,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgifilm.tv&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-f79fbf79313915f019c93aa99e9cfb982e22a00953965b90ba956d4128d192af",
-    "filesize": 107818,
     "hash": "f79fbf79313915f019c93aa99e9cfb982e22a00953965b90ba956d4128d192af"
   },
   {
@@ -185,7 +181,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgi.site&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-84e130b67daec665e58da48e18682caffcc481dbf97e48d133468715336547f1",
-    "filesize": 106616,
     "hash": "84e130b67daec665e58da48e18682caffcc481dbf97e48d133468715336547f1"
   },
   {
@@ -209,7 +204,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=minikacocuk.com.tr&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-e8e399326fdabf12a93b92e11e3aead40ab4a15f4012d25c85cfb08b39ddd6f1",
-    "filesize": 113561,
     "hash": "e8e399326fdabf12a93b92e11e3aead40ab4a15f4012d25c85cfb08b39ddd6f1"
   },
   {
@@ -233,7 +227,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=minikago.com.tr&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-fa5f07b2a3992222c6182ad0210fc2b5908ddf750e859d78f4c8a75b792d4c04",
-    "filesize": 113547,
     "hash": "fa5f07b2a3992222c6182ad0210fc2b5908ddf750e859d78f4c8a75b792d4c04"
   },
   {
@@ -257,7 +250,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=turkcecizgifilmarsivi.online&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-243d686ac1c3c47a3385180bdd05e5bfbbe4a5d85cffb9eccebe70227031c80d",
-    "filesize": 109197,
     "hash": "243d686ac1c3c47a3385180bdd05e5bfbbe4a5d85cffb9eccebe70227031c80d"
   }
 ]
