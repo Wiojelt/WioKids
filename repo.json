@@ -4,9 +4,9 @@
   "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioKids/main/assets/logo.png",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/plugins.json?t=1795816192"
+    "https://raw.githubusercontent.com/Wiojelt/WioKids/builds/plugins.json?t=1795816478"
   ],
-  "timestamp": 1795816192,
-  "lastUpdated": 1795816192,
+  "timestamp": 1795816478,
+  "lastUpdated": 1795816478,
   "version": 2
 }
